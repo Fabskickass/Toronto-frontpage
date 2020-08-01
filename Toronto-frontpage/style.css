@@ -1,0 +1,100 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+#title{
+  background-color: #ff4301;
+  color:#fff;
+  padding:20px 20px 40px 100px;
+}
+
+#architecture{
+  background-color: #fe346e;
+  color:#fff;
+  font-size: 14px;
+  padding:50px 20px 50px 20px;
+}
+
+#winter{
+  background-color: #721b65;
+  color:#fff;
+  padding: 50px 0 50px 50px;
+}
+
+#parks{
+  background-color: #ffd868;
+}
+
+.image{
+  position: relative;
+  width:400px;
+  border-radius: 17px;
+  border-width: thick;
+  border-style: solid;
+  border-color: black;
+  padding:20px auto 20px auto;
+}
+
+.high-park{
+  width: 500px;
+  padding:100px auto 100px auto;
+  margin:50px 0 50px 20px;
+}
+
+.buildings{
+  margin: 50px auto;
+}
+
+.link{
+  color:#fff;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+.link:hover{
+ color:black;
+ text-decoration: none;
+}
+
+.content-city{
+  padding-top: 30px;
+}
+
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  color:#fff;
+  text-align: center;
+  padding: 20px 0 30px 0;
+}
+
+h2{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 20px 0 20px 40px;
+}
+
+p{
+  margin: 20% auto 20% auto;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+footer{
+  padding: 15px auto;
+  text-align: center;
+  color:#838383;
+  font-weight: 600;
+  font-family: 'Josefin Sans',sans-serif;
+}
+
+@media (max-width:1219px){
+  body{
+    text-align: center;
+  }
+}
